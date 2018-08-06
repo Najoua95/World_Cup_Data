@@ -2,6 +2,11 @@
 
 :soccer::soccer::soccer:
 
+Dans le cadre de notre formation Datartisan @Simplon.co, nous devons proposer un chef d'oeuvre mettant en application nos compétences  :computer:
+
+Auteurs et copyright : Salima / Najoua95
+
+## Notre Projet :
 ### Création d'une base de données regroupant un maximum d'informations sur les Coupes du Monde (CdM) de Football de 1930 à 2018. 
 #### Cet outil permettra d'avoir des rendus visuels (DataViz) sur les différentes données relatives aux CdM.
 
