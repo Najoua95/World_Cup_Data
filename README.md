@@ -5,7 +5,7 @@
 Dans le cadre de notre formation Datartisan @Simplon.co, nous devons proposer un chef d'oeuvre mettant en application nos compétences  :computer:
 
 ## Project 
-### Création d'une base de données regroupant un maximum d'informations sur les Coupes du Monde (CdM) de Football de 1930 à 2018. 
+### Création d'une base de données regroupant un maximum d'informations sur les Coupes du Monde (CdM) de Football de 1930 à 2018 (Hommes). 
 #### Cet outil permettra d'avoir des rendus visuels (DataViz) sur les différentes données relatives aux CdM.
 
 #### Vous pouvez consulter les divers fichiers : Csv, UML, Jupyter_Notebook...
@@ -26,10 +26,10 @@ Acquisition de données en cours (pour le moment, nous nous sommes concentrées 
 - Tableau (DataViz)
 
 
-:calendar:
-A terme, il y aura toutes les données possibles sur l'ensemble des CdM (depuis 1930 à 2018).
-
 ### Authors
 - Salima
 - Najoua
 
+
+:calendar:
+A terme, il y aura toutes les données possibles sur l'ensemble des CdM (depuis 1930 à 2018).
