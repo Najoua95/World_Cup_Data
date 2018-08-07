@@ -16,6 +16,8 @@ Base de données en cours d'intégration...
 
 Acquisition de données en cours (pour le moment, nous nous sommes concentrées sur les dernières Coupe du Monde (2018, 2014, 2010).
 
+*****************
+
 ### Built With
 - MySQL - Database
 - Google Cloud 
