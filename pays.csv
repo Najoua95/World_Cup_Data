@@ -1,0 +1,85 @@
+code_iso,nom_pays,continent
+ZAF,Afrique du Sud,Afrique
+DZA,Algerie,Afrique
+DEU,Allemagne,Europe
+DEU,Allemagne de l'Est,Europe
+ENG,Angleterre,Europe
+AGO,Angola,Afrique
+SAU,Arabie saoudite,Asie
+ARG,Argentine,Amerique du Sud
+AUS,Australie,Oceanie
+AUT,Autriche,Europe
+BEL,Belgique,Europe
+BOL,Bolivie,Amerique du Sud
+BIH,Bosnie Herzegovine,Europe
+BRA,Bresil,Amerique du Sud
+BGR,Bulgarie,Europe
+CMR,Cameroun,Afrique
+CAN,Canada,Amerique du Nord
+CHL,Chili,Amerique du Sud
+CHN,Chine,Asie
+COL,Colombie,Amerique du Sud
+PRK,Coree du Nord,Asie
+KOR,Coree du Sud,Asie
+CRI,Costa Rica,Amerique du Sud
+CIV,Cote d’Ivoire,Afrique
+HRV,Croatie,Europe
+CUB,Cuba,Amerique du Sud
+DNK,Danemark,Europe
+SCT,Ecosse,Europe
+EGY,Egypte,Afrique
+ARE,Emirats arabes unis,Asie
+ECU,Equateur,Amerique du Sud
+ESP,Espagne,Europe
+USA ,Etats Unis,Amerique du Nord
+FRA,France,Europe
+GHA,Ghana,Afrique
+GRC,Grece,Europe
+HTI,Haiti,Amerique du Nord
+HND,Honduras,Amerique du Nord
+HUN,Hongrie,Europe
+IND,Inde,Asie
+IDN,Indonesie,Asie
+IRQ,Irak,Asie
+IRN,Iran,Asie
+IRL,Irlande,Europe
+NIR,Irlande du Nord,Europe
+ISL,Islande,Europe
+ISR,Israel,Asie
+ITA,Italie,Europe
+JAM,Jamaique,Amerique du Nord
+JPN,Japon,Asie
+KWT,Koweit,Asie
+MAR,Maroc,Afrique
+MEX,Mexique,Amerique du Sud
+NGA,Nigeria,Afrique
+NOR,Norvege,Europe
+NZL,Nouvelle Zelande,Oceanie
+PAN,Panama,Amerique du Sud
+PRY,Paraguay,Amerique du Sud
+NLD,Pays Bas,Europe
+WLS,Pays de Galles,Europe
+PER,Perou,Amerique du Sud
+POL,Pologne,Europe
+PRT,Portugal,Europe
+COD,Republique Democratique du Congo,Afrique
+CZE,Republique tcheque,Europe
+ROU,Roumanie,Europe
+RUS,Russie,Europe
+SLV,Salvador,Amerique du Sud
+SEN,Senegal,Afrique
+SRB,Serbie,Europe
+SCG,Serbie et Montenegro,Europe
+SVK,Slovaquie,Europe
+SVN,Slovenie,Europe
+SWE,Suede,Europe
+CHE,Suisse,Europe
+CSK,Tchecoslovaquie,Europe
+TGO,Togo,Afrique
+TTO,Trinite et Tobago,Amerique du Nord
+TUN,Tunisie,Afrique
+TUR,Turquie,Europe
+UKR,Ukraine,Europe
+SUN,Union sovietique,Europe
+URY,Uruguay,Amerique du Sud
+YUG,Yougoslavie,Europe
