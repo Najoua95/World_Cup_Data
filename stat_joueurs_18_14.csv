@@ -1,0 +1,227 @@
+annee,nom_joueur,nb_buts,nom_pays
+2018,Harry Kane,6,Angleterre
+2018,Romelu Lukaku,4,Belgique
+2018,Antoine Griezmann,4,France
+2018,Kylian Mbappé,4,France
+2018,Cristiano Ronaldo,4,Portugal
+2018,Denis Cherichev,4,Russie
+2018,Eden Hazard,3,Belgique
+2018,Yerry Mina,3,Colombie
+2018,Mario Mandzukic,3,Croatie
+2018,Ivan Perisic,3,Croatie
+2018,Diego Costa,3,Espagne
+2018,Artem Dziouba,3,Russie
+2018,Edinson Cavani,3,Uruguay
+2018,John Stones,2,Angleterre
+2018,Sergio Agüero,2,Argentine
+2018,Mile Jedinak,2,Australie
+2018,Philippe Coutinho,2,Bresil
+2018,Neymar,2,Bresil
+2018,Heung-min Son,2,Coree du Sud
+2018,Luka Modric,2,Croatie
+2018,Mohamed Salah,2,Egypte
+2018,Takashi Inui,2,Japon
+2018,Ahmed Musa,2,Nigeria
+2018,Andreas Granqvist,2,Suede
+2018,Wahbi Khazri,2,Tunisie
+2018,Luis Suarez,2,Uruguay
+2018,Toni Kroos,1,Allemagne
+2018,Marco Reus,1,Allemagne
+2018,Dele Alli,1,Angleterre
+2018,Jesse Lingard,1,Angleterre
+2018,Harry Maguire,1,Angleterre
+2018,Kieran Trippier,1,Angleterre
+2018,Salem Mohammed Al-Dawsari,1,Arabie saoudite
+2018,Salman Mohammed Al-Faraj,1,Arabie saoudite
+2018,Angel Di Maria,1,Argentine
+2018,Gabriel Mercado,1,Argentine
+2018,Lionel Messi,1,Argentine
+2018,Marcos Rojo,1,Argentine
+2018,Michy Batshuayi,1,Belgique
+2018,Nacer Chadli,1,Belgique
+2018,Kevin De Bruyne,1,Belgique
+2018,Marouane Fellaini,1,Belgique
+2018,Adnan Januzaj,1,Belgique
+2018,Dries Mertens,1,Belgique
+2018,Thomas Meunier,1,Belgique
+2018,Jan Vertonghen,1,Belgique
+2018,Renato Augusto,1,Bresil
+2018,Roberto Firmino,1,Bresil
+2018,Paulinho,1,Bresil
+2018,Thiago Silva,1,Bresil
+2018,Juan Guillermo Cuadrado,1,Colombie
+2018,Radamel Falcao,1,Colombie
+2018,Juan Quintero,1,Colombie
+2018,Young-gwon Kim,1,Coree du Sud
+2018,Kendall Waston,1,Costa Rica
+2018,Milan Badelj,1,Croatie
+2018,Andrej Kramaric,1,Croatie
+2018,Ivan Rakitic,1,Croatie
+2018,Ante Rebic,1,Croatie
+2018,Domagoj Vida,1,Croatie
+2018,Christian Eriksen,1,Danemark
+2018,Mathias Zanka Jörgensen,1,Danemark
+2018,Yussuf Yurary Poulsen,1,Danemark
+2018,Iago Aspas,1,Espagne
+2018,Nacho Fernandez,1,Espagne
+2018,Isco,1,Espagne
+2018,Benjamin Pavard,1,France
+2018,Paul Pogba,1,France
+2018,Samuel Umtiti,1,France
+2018,Raphaël Varane,1,France
+2018,Karim AnsarifardIran,1,Iran
+2018,Alfred Finnbogason,1,Islande
+2018,Gylfi Thor Sigurdsson,1,Islande
+2018,Genki Haraguchi,1,Japon
+2018,Keisuke Honda,1,Japon
+2018,Shinji Kagawa,1,Japon
+2018,Yuya Osako,1,Japon
+2018,Khalid Boutaïb,1,Maroc
+2018,Youssef En-Nesyri,1,Maroc
+2018,Javier Hernandez,1,Mexique
+2018,Hirving Lozano,1,Mexique
+2018,Carlos Vela,1,Mexique
+2018,Victor Moses,1,Nigeria
+2018,Felipe Baloy,1,Panama
+2018,Jan Bednarek,1,Pologne
+2018,Grzegorz Krychowiak,1,Pologne
+2018,Pepe,1,Portugal
+2018,Ricardo Quaresma,1,Portugal
+2018,André Carrillo,1,Perou
+2018,Paolo Guerrero,1,Perou
+2018,Mario Fernandes,1,Russie
+2018,Youri Gazinski,1,Russie
+2018,Alexandre Golovine,1,Russie
+2018,Aleksandar Kolarov,1,Serbie
+2018,Aleksandar Mitrovic,1,Serbie
+2018,Josip Drmic,1,Suisse
+2018,Blerim Dzemaili,1,Suisse
+2018,Xherdan Shaqiri,1,Suisse
+2018,Granit Xhaka,1,Suisse
+2018,Steven Zuber,1,Suisse
+2018,Ludwig Augustinsson,1,Suede
+2018,Emil Forsberg,1,Suede
+2018,Ola Toivonen,1,Suede
+2018,Sadio Mané,1,Senegal
+2018,M'Baye Niang,1,Senegal
+2018,Moussa Wagué,1,Senegal
+2018,Fakhreddine Ben Youssef,1,Tunisie
+2018,Dylan Bronn,1,Tunisie
+2018,Ferjani Sassi,1,Tunisie
+2018,Jose Gimenez,1,Uruguay
+2014,Rodriguez James,6,Colombie
+2014,Muller Thomas,5,Allemagne
+2014,Messi Lionel,4,Argentine
+2014,Neymar ,4,Bresil
+2014,Van Persie Robin,4,Pays Bas
+2014,Schurrle Andre,3,Allemagne
+2014,Valencia Enner,3,Equateur
+2014,Benzema Karim,3,France
+2014,Robben Arjen,3,Pays Bas
+2014,Shaqiri Xherdan,3,Suisse
+2014,Djabou Abdelmoumene,2,Algerie
+2014,Slimani Islam,2,Algerie
+2014,Götze Mario,2,Allemagne
+2014,Hummels Mats,2,Allemagne
+2014,Klose Miroslav,2,Allemagne
+2014,Kroos Toni,2,Allemagne
+2014,Cahill Tim,2,Australie
+2014,David Luiz ,2,Bresil
+2014,Oscar ,2,Bresil
+2014,Sanchez Alexis,2,Chili
+2014,Martinez Jackson,2,Colombie
+2014,Ruiz BryanA ,2,Costa Rica
+2014,Mandzukic Mario,2,Croatie
+2014,Perisic Ivan,2,Croatie
+2014,Bony Wilfried,2,Cote d'Ivoire
+2014,Gervinho,2,Cote d'Ivoire
+2014,Dempsey Clint,2,Etats Unis
+2014,Ayew Andre,2,Ghana
+2014,Gyan Asamoah,2,Ghana
+2014,Musa Ahmed,2,Nigeria
+2014,Depay Memphis,2,Pays Bas
+2014,Suarez Luis,2,Uruguay
+2014,Brahimi Yacine,1,Algerie
+2014,Feghouli Sofiane,1,Algerie
+2014,Halliche Rafik,1,Algerie
+2014,Khedira Sami,1,Allemagne
+2014,Özil Mesut,1,Allemagne
+2014,Rooney Wayne,1,Angleterre
+2014,Sturridge Daniel,1,Angleterre
+2014,Di Maria Angel,1,Argentine
+2014,Higuain Gonzalo,1,Argentine
+2014,Rojo Marcos,1,Argentine
+2014,Jedinak Mile,1,Australie
+2014,De Bruyne Kevin,1,Belgique
+2014,Fellaini Marouane,1,Belgique
+2014,Lukaku Romelu,1,Belgique
+2014,Mertens Dries,1,Belgique
+2014,Origi Divock,1,Belgique
+2014,Vertonghen Jan,1,Belgique
+2014,Dzeko Edin,1,Bosnie
+2014,Ibisevic Vedad,1,Bosnie
+2014,Pjanic Miralem,1,Bosnie
+2014,Vrsajevic Avdija,1,Bosnie
+2014,Fernandinho ,1,Bresil
+2014,Fred ,1,Bresil
+2014,Thiago Silva ,1,Bresil
+2014,Matip Joel,1,Cameroun
+2014,Aranguiz Charles,1,Chili
+2014,Beausejour Jean,1,Chili
+2014,Valdivia Jorge,1,Chili
+2014,Vargas Eduardo,1,Chili
+2014,Armero Pablo,1,Colombie
+2014,Cuadrado Juan Guillermo,1,Colombie
+2014,Gutierrez Teofilo,1,Colombie
+2014,Quintero Juan,1,Colombie
+2014,Koo Ja cheol,1,Coree du Sud
+2014,Lee Keun ho,1,Coree du Sud
+2014,Son Heung min,1,Coree du Sud
+2014,Campbell Joel,1,Costa Rica
+2014,Duarte Oscar,1,Costa Rica
+2014,Urena Marco,1,Costa Rica
+2014,Olic Ivica,1,Croatie
+2014,Alonso Xabi,1,Espagne
+2014,Mata Juan Manuel,1,Espagne
+2014,Torres Fernando,1,Espagne
+2014,Villa David,1,Espagne
+2014,Brooks John Anthony,1,Etats Unis
+2014,Green Julian,1,Etats Unis
+2014,Jones Jermaine,1,Etats Unis
+2014,Giroud Olivier,1,France
+2014,Matuidi Blaise,1,France
+2014,Pogba Paul,1,France
+2014,Sissoko Moussa,1,France
+2014,Valbuena Mathieu,1,France
+2014,Papastathopoulos Sokratis,1,Grece
+2014,Samaras Georgios,1,Grece
+2014,Samaris Andreas,1,Grece
+2014,Costly Carlos,1,honduras
+2014,Ghoochanneijhad Reza,1,Iran
+2014,Balotelli Mario,1,Italie
+2014,Marchisio Claudio,1,Italie
+2014,Honda Keisuke,1,Japon
+2014,Okazaki Shinji,1,Japon
+2014,Dos Santos Giovani,1,Mexique
+2014,Guardado Andres,1,Mexique
+2014,Hernandez Javier,1,Mexique
+2014,Marquez Rafael,1,Mexique
+2014,Peralta Oribe,1,Mexique
+2014,Odemwingie Peter,1,Nigeria
+2014,Blind Daley,1,Pays Bas
+2014,De Vrij Stefan,1,Pays Bas
+2014,Fer Leroy,1,Pays Bas
+2014,Huntelaar Klaas Jan,1,Pays Bas
+2014,Sneijder Wesley,1,Pays Bas
+2014,Wijnaldum Georginio,1,Pays Bas
+2014,Nani ,1,Portugal
+2014,Ronaldo Cristiano,1,Portugal
+2014,Varela Silvestre,1,Portugal
+2014,Kerzhakov Alexander,1,Russie
+2014,Kokorin Aleksandre,1,Russie
+2014,Dzemaili Blerim,1,Suisse
+2014,Mehmedi Admir,1,Suisse
+2014,Seferovic Haris,1,Suisse
+2014,Xhaka Granit,1,Suisse
+2014,Cavani Edinson,1,Uruguay
+2014,Godin Diego,1,Uruguay
