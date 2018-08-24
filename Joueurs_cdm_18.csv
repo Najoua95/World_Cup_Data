@@ -1,0 +1,737 @@
+noms_pays,nom_joueur,poste,taille,poids,nb_sel
+Allemagne,Thomas Müller,MIL,1.86m,74kg,94 sel.
+Allemagne,Mesut Özil,MIL,1.82m,70kg,92 sel.
+Allemagne,Toni Kroos,MIL,1.82m,77kg,86 sel.
+Allemagne,Manuel Neuer,GAR,1.93m,90kg,79 sel.
+Allemagne,Mario Gomez,ATT,1.89m,88kg,78 sel.
+Allemagne,Sami Khedira,MIL,1.89m,81kg,77 sel.
+Allemagne,Jerome Boateng,DEF,1.92m,90kg,73 sel.
+Allemagne,Mats Hummels,DEF,1.91m,88kg,66 sel.
+Allemagne,Julian Draxler,MIL,1.87m,72kg,46 sel.
+Allemagne,Jonas Hector,DEF,1.85m,73kg,40 sel.
+Allemagne,Marco Reus,MIL,1.80m,70kg,34 sel.
+Allemagne,Joshua Kimmich,DEF,1.76m,70kg,32 sel.
+Allemagne,Ilkay Gündogan,MIL,1.80m,78kg,27 sel.
+Allemagne,Sebastian Rudy,MIL,1.79m,74kg,26 sel.
+Allemagne,Antonio Rüdiger,DEF,1.91m,85kg,25 sel.
+Allemagne,Marc-André Ter Stegen,GAR,1.89m,85kg,20 sel.
+Allemagne,Julian Brandt,MIL,1.85m,82kg,19 sel.
+Allemagne,Matthias Ginter,MIL,1.89m,82kg,18 sel.
+Allemagne,Timo Werner,ATT,1.80m,75kg,17 sel.
+Allemagne,Leon Goretzka,MIL,1.89m,79kg,16 sel.
+Allemagne,Niklas Süle,DEF,1.94m,90kg,12 sel.
+Allemagne,Marvin Plattenhardt,DEF,1.81m,76kg,7 sel.
+Allemagne,Kevin Trapp,GAR,1.89m,83kg,3 sel.
+Angleterre,Gary Cahill,DEF,1.87m,78kg,61 sel.
+Angleterre,Jordan Henderson,MIL,1.82m,67kg,42 sel.
+Angleterre,Raheem Sterling,MIL,1.70m,63kg,41 sel.
+Angleterre,Danny Welbeck,ATT,1.85m,73kg,40 sel.
+Angleterre,Kyle Walker,DEF,1.77m,73kg,38 sel.
+Angleterre,Ashley Young,MIL,1.75m,63kg,37 sel.
+Angleterre,John Stones,DEF,1.87m,69kg,30 sel.
+Angleterre,Eric Dier,DEF,1.88m,63kg,29 sel.
+Angleterre,Dele Alli,MIL,1.88m,73kg,27 sel.
+Angleterre,Harry Kane,ATT,1.88m,85kg,27 sel.
+Angleterre,Phil Jones,DEF,1.80m,72kg,26 sel.
+Angleterre,Jamie Vardy,ATT,1.78m,76kg,25 sel.
+Angleterre,Marcus Rashford,ATT,1.78m,70kg,22 sel.
+Angleterre,Daniel Rose,MIL,1.73m,75kg,21 sel.
+Angleterre,Jesse Lingard,MIL,1.68m,58kg,15 sel.
+Angleterre,Fabian Delph,MIL,1.74m,60kg,13 sel.
+Angleterre,Kieran Trippier,DEF,1.78m,71kg,10 sel.
+Angleterre,Harry Maguire,DEF,1.88m,79kg,9 sel.
+Angleterre,Jack Butland,GAR,1.92m,94kg,8 sel.
+Angleterre,Jordan Pickford,GAR,1.85m,77kg,7 sel.
+Angleterre,Ruben Loftus-Cheek,MIL,1.93m,83kg,7 sel.
+Angleterre,Trent Alexander-Arnold,MIL,1.80m,75kg,2 sel.
+Angleterre,Nick Pope,GAR,1.90m,75kg,1 sel.
+Arabie Saoudite,Osama Hawsawi,DEF,1.87m,77kg,138 sel.
+Arabie Saoudite,Taisir Al-Jassim,MIL,1.69m,64kg,134 sel.
+Arabie Saoudite,Yehya Sulaiman Al-Shehri,MIL,1.64m,60kg,59 sel.
+Arabie Saoudite,Fahad Al-Muwallad,ATT,1.67m,59kg,48 sel.
+Arabie Saoudite,Salman Mohammed Al-Faraj,MIL,1.75m,69kg,46 sel.
+Arabie Saoudite,Omar Hawsawi,DEF,1.84m,74kg,43 sel.
+Arabie Saoudite,Mohammad Al-Sahlawi,ATT,1.77m,72kg,42 sel.
+Arabie Saoudite,Mansour Al-Harbi,DEF,1.70m,65kg,40 sel.
+Arabie Saoudite,Yasir Gharsan Al-Shahrani,DEF,1.71m,62kg,40 sel.
+Arabie Saoudite,Abdulmalek Al-Khaibri,MIL,1.75m,72kg,36 sel.
+Arabie Saoudite,Salem Mohammed Al-Dawsari,MIL,1.71m,72kg,34 sel.
+Arabie Saoudite,Yasser Al-Mosailem,GAR,1.84m,82kg,33 sel.
+Arabie Saoudite,Housain Al-Mogahwi,MIL,1.73m,64kg,20 sel.
+Arabie Saoudite,Abdullah Otayf,MIL,1.77m,68kg,19 sel.
+Arabie Saoudite,Muhannad Assiri,ATT,1.78m,69kg,19 sel.
+Arabie Saoudite,Motaz Hawsawi,DEF,1.79m,77kg,18 sel.
+Arabie Saoudite,Mohammed Al-Breik,DEF,1.73m,61kg,14 sel.
+Arabie Saoudite,Abdullah Al-Mayouf,GAR,1.87m,83kg,12 sel.
+Arabie Saoudite,Hattan Bahebri,MIL,1.70m,63kg,8 sel.
+Arabie Saoudite,Mohammed Al-Owais,GAR,1.85m,70kg,7 sel.
+Arabie Saoudite,Mohamed Kanno,MIL,1.91m,71kg,7 sel.
+Arabie Saoudite,Ali Al-Bulaihi,DEF,1.84m,80kg,5 sel.
+Arabie Saoudite,Abdullah Al-Khaibari,MIL,1.75m,66kg,5 sel.
+Argentine,Javier Mascherano,MIL,1.73m,74kg,147 sel.
+Argentine,Lionel Messi,ATT,1.69m,67kg,128 sel.
+Argentine,Angel Di Maria,ATT,1.78m,75kg,97 sel.
+Argentine,Sergio Agüero,ATT,1.72m,74kg,89 sel.
+Argentine,Gonzalo Higuain,ATT,1.84m,75kg,75 sel.
+Argentine,Ever Banega,MIL,1.75m,73kg,65 sel.
+Argentine,Marcos Rojo,DEF,1.89m,82kg,59 sel.
+Argentine,Nicolas Otamendi,DEF,1.81m,80kg,58 sel.
+Argentine,Lucas Biglia,MIL,1.69m,63kg,58 sel.
+Argentine,Enzo Perez,MIL,1.77m,71kg,26 sel.
+Argentine,Gabriel Mercado,DEF,1.80m,71kg,22 sel.
+Argentine,Paulo Dybala,ATT,1.80m,72kg,13 sel.
+Argentine,Eduardo Salvio,MIL,1.71m,76kg,11 sel.
+Argentine,Marcos Acuna,DEF,1.72m,72kg,10 sel.
+Argentine,Federico Fazio,DEF,1.95m,85kg,10 sel.
+Argentine,Cristian Pavon,MIL,1.67m,65kg,9 sel.
+Argentine,Nicolas Tagliafico,DEF,1.72m,65kg,8 sel.
+Argentine,Nahuel Guzman,GAR,1.91m,86kg,6 sel.
+Argentine,Maximiliano Meza,MIL,1.80m,76kg,6 sel.
+Argentine,Wilfredo Caballero,GAR,1.86m,80kg,5 sel.
+Argentine,Cristian Ansaldi,DEF,1.79m,73kg,5 sel.
+Argentine,Giovani Lo Celso,MIL,1.77m,70kg,5 sel.
+Argentine,Franco Armani,GAR,1.89m,85kg,2 sel.
+Australie,Tim Cahill,MIL,1.78m,68kg,107 sel.
+Australie,Mile Jedinak,MIL,1.91m,86kg,79 sel.
+Australie,Mark Milligan,DEF,1.79m,78kg,74 sel.
+Australie,Robbie Kruse,MIL,1.79m,72kg,67 sel.
+Australie,Mathew Leckie,ATT,1.81m,78kg,56 sel.
+Australie,Mathew Ryan,GAR,1.84m,73kg,47 sel.
+Australie,Tomas Rogic,MIL,1.88m,89kg,40 sel.
+Australie,Trent Sainsbury,DEF,1.84m,76kg,38 sel.
+Australie,Tomi Juric,ATT,1.91m,80kg,38 sel.
+Australie,Aaron Mooy,MIL,1.79m,80kg,37 sel.
+Australie,Massimo Luongo,MIL,1.76m,74kg,36 sel.
+Australie,Aziz Behich,DEF,1.70m,63kg,26 sel.
+Australie,Jackson Irvine,MIL,1.89m,77kg,22 sel.
+Australie,Milos Degenek,DEF,1.87m,85kg,18 sel.
+Australie,Joshua Risdon,DEF,1.76m,70kg,11 sel.
+Australie,Bradley Jones,GAR,1.94m,76kg,6 sel.
+Australie,Jamie Maclaren,ATT,1.79m,72kg,6 sel.
+Australie,Andrew Nabbout,ATT,1.75m,85kg,6 sel.
+Australie,Daniel Arzani,ATT,1.75m,73kg,5 sel.
+Australie,Matthew Jurman,DEF,1.92m,83kg,4 sel.
+Australie,James Meredith,DEF,1.85m,73kg,2 sel.
+Australie,Dimitri Petratos,MIL,1.76m,72kg,2 sel.
+Australie,Danny Vukovic,GAR,1.88m,94kg,1 sel.
+Belgique,Jan Vertonghen,DEF,1.89m,79kg,106 sel.
+Belgique,Axel Witsel,MIL,1.83m,73kg,94 sel.
+Belgique,Eden Hazard,ATT,1.72m,72kg,90 sel.
+Belgique,Marouane Fellaini,MIL,1.94m,85kg,86 sel.
+Belgique,Toby Alderweireld,DEF,1.86m,81kg,81 sel.
+Belgique,Vincent Kompany,DEF,1.90m,85kg,80 sel.
+Belgique,Mousa Dembélé,MIL,1.77m,64kg,79 sel.
+Belgique,Dries Mertens,MIL,1.69m,61kg,74 sel.
+Belgique,Romelu Lukaku,ATT,1.90m,94kg,73 sel.
+Belgique,Thomas Vermaelen,DEF,1.80m,73kg,67 sel.
+Belgique,Kevin De Bruyne,MIL,1.80m,68kg,66 sel.
+Belgique,Thibaut Courtois,GAR,1.94m,80kg,64 sel.
+Belgique,Nacer Chadli,MIL,1.87m,80kg,49 sel.
+Belgique,Yannick Carrasco,MIL,1.80m,71kg,30 sel.
+Belgique,Thomas Meunier,DEF,1.90m,82kg,29 sel.
+Belgique,Simon Mignolet,GAR,1.93m,88kg,21 sel.
+Belgique,Michy Batshuayi,ATT,1.85m,78kg,19 sel.
+Belgique,Thorgan Hazard,ATT,1.74m,69kg,13 sel.
+Belgique,Youri Tielemans,MIL,1.76m,72kg,12 sel.
+Belgique,Derdryck Boyata,DEF,1.88m,83kg,10 sel.
+Belgique,Adnan Januzaj,MIL,1.80m,76kg,8 sel.
+Belgique,Leander Dendoncker,MIL,1.88m,79kg,6 sel.
+Belgique,Koen Casteels,GAR,1.96m,78kg,
+Bresil,Neymar,ATT,1.75m,68kg,89 sel.
+Bresil,Thiago Silva,DEF,1.83m,79kg,75 sel.
+Bresil,Willian,MIL,1.74m,70kg,61 sel.
+Bresil,Marcelo,DEF,1.74m,73kg,57 sel.
+Bresil,Paulinho,MIL,1.80m,71kg,54 sel.
+Bresil,João Miranda,DEF,1.85m,79kg,51 sel.
+Bresil,Fernandinho,MIL,1.76m,67kg,48 sel.
+Bresil,Philippe Coutinho,MIL,1.71m,68kg,40 sel.
+Bresil,Filipe Luis,DEF,1.79m,66kg,35 sel.
+Bresil,Alisson Becker,GAR,1.91m,91kg,30 sel.
+Bresil,Renato Augusto,MIL,1.85m,82kg,30 sel.
+Bresil,Carlos Henrique Casemiro,MIL,1.84m,80kg,28 sel.
+Bresil,Marquinhos,DEF,1.83m,79kg,27 sel.
+Bresil,Douglas Costa,MIL,1.70m,63kg,26 sel.
+Bresil,Roberto Firmino,MIL,1.81m,76kg,24 sel.
+Bresil,Gabriel Jesus,ATT,1.75m,73kg,21 sel.
+Bresil,Danilo,DEF,1.84m,78kg,19 sel.
+Bresil,Fred Rodrigues,MIL,1.69m,64kg,8 sel.
+Bresil,Taison,ATT,1.72m,64kg,8 sel.
+Bresil,Fagner,DEF,1.68m,67kg,7 sel.
+Bresil,Pedro Geromel,DEF,1.90m,84kg,2 sel.
+Bresil,Cássio,GAR,1.95m,92kg,1 sel.
+Bresil,Ederson,GAR,1.88m,89kg,1 sel.
+Colombie,David Ospina,GAR,1.83m,79kg,91 sel.
+Colombie,Carlos Sanchez,MIL,1.82m,82kg,88 sel.
+Colombie,Radamel Falcao,ATT,1.75m,78kg,78 sel.
+Colombie,Juan Guillermo Cuadrado,MIL,1.76m,66kg,73 sel.
+Colombie,Abel Aguilar,MIL,1.85m,82kg,72 sel.
+Colombie,James Rodriguez,MIL,1.78m,78kg,66 sel.
+Colombie,Cristian Zapata,DEF,1.86m,78kg,56 sel.
+Colombie,Carlos Bacca,ATT,1.81m,77kg,48 sel.
+Colombie,Santiago Arias,DEF,1.76m,68kg,45 sel.
+Colombie,Luis Muriel,ATT,1.78m,75kg,20 sel.
+Colombie,Juan Quintero,MIL,1.68m,64kg,19 sel.
+Colombie,Yerry Mina,DEF,1.93m,75kg,15 sel.
+Colombie,Oscar Murillo,DEF,1.84m,80kg,14 sel.
+Colombie,Farid Diaz,DEF,1.70m,70kg,13 sel.
+Colombie,Davinson Sanchez,DEF,1.87m,80kg,13 sel.
+Colombie,Wilmar Barrios,MIL,1.79m,70kg,13 sel.
+Colombie,Mateus Uribe,MIL,1.82m,71kg,11 sel.
+Colombie,Jefferson Lerma,MIL,1.79m,70kg,9 sel.
+Colombie,Johan Mojica,DEF,1.79m,66kg,8 sel.
+Colombie,Miguel Borja,ATT,1.82m,75kg,8 sel.
+Colombie,José Heriberto Izquierdo,MIL,1.71m,75kg,6 sel.
+Colombie,Camilo Vargas,GAR,1.85m,81kg,5 sel.
+Colombie,José Fernando Cuadrado,GAR,1.80m,80kg,1 sel.
+Coree du Sud,Sung-yong Ki,MIL,1.86m,75kg,106 sel.
+Coree du Sud,Ja-cheol Koo,MIL,1.82m,73kg,71 sel.
+Coree du Sud,Heung-min Son,ATT,1.83m,76kg,71 sel.
+Coree du Sud,Young-gwon Kim,DEF,1.84m,74kg,56 sel.
+Coree du Sud,Hyun-soo Jang,DEF,1.87m,77kg,55 sel.
+Coree du Sud,Shin-wook Kim,ATT,1.97m,97kg,51 sel.
+Coree du Sud,Jae-sung Lee,MIL,1.80m,70kg,38 sel.
+Coree du Sud,Joo-ho Park,DEF,1.74m,71kg,37 sel.
+Coree du Sud,Seung-gyu Kim,GAR,1.87m,80kg,33 sel.
+Coree du Sud,Woo-young Jung,ATT,1.86m,78kg,33 sel.
+Coree du Sud,Yong Lee,DEF,1.80m,74kg,31 sel.
+Coree du Sud,Min-woo Kim,DEF,1.72m,69kg,23 sel.
+Coree du Sud,Yo-han Go,MIL,1.70m,66kg,21 sel.
+Coree du Sud,Chul Hong,DEF,1.76m,67kg,17 sel.
+Coree du Sud,Hee-chan Hwang,ATT,1.77m,77kg,17 sel.
+Coree du Sud,Jin-hyeon Kim,GAR,1.93m,82kg,16 sel.
+Coree du Sud,Se-jong Ju,MIL,1.76m,70kg,13 sel.
+Coree du Sud,Hyun-woo Cho,GAR,1.89m,71kg,9 sel.
+Coree du Sud,Young-sun Yun,DEF,1.85m,78kg,7 sel.
+Coree du Sud,Seung-hyun Jung,DEF,1.88m,74kg,6 sel.
+Coree du Sud,Seung-woo Lee,MIL,1.70m,63kg,6 sel.
+Coree du Sud,Seon-min Moon,MIL,1.72m,68kg,5 sel.
+Coree du Sud,Ban-suk Oh,DEF,1.89m,79kg,2 sel.
+Costa Rica,Celso Borges,ATT,1.85m,75kg,116 sel.
+Costa Rica,Bryan Ruiz,MIL,1.86m,70kg,113 sel.
+Costa Rica,Keylor Navas,GAR,1.84m,78kg,84 sel.
+Costa Rica,Cristian Bolanos,MIL,1.78m,67kg,83 sel.
+Costa Rica,Joel Campbell,ATT,1.78m,70kg,79 sel.
+Costa Rica,Johnny Acosta,DEF,1.76m,79kg,72 sel.
+Costa Rica,Giancarlo Gonzalez,DEF,1.87m,71kg,72 sel.
+Costa Rica,Cristian Gamboa,DEF,1.75m,67kg,70 sel.
+Costa Rica,Marco Urena,ATT,1.80m,72kg,67 sel.
+Costa Rica,Randall Azofeifa,MIL,1.82m,83kg,59 sel.
+Costa Rica,Yeltsin Tejeda,MIL,1.79m,70kg,52 sel.
+Costa Rica,Johan Venegas,ATT,1.83m,76kg,49 sel.
+Costa Rica,David Guzman,MIL,1.78m,78kg,48 sel.
+Costa Rica,Bryan Oviedo,MIL,1.72m,69kg,46 sel.
+Costa Rica,Oscar Duarte,DEF,1.84m,85kg,41 sel.
+Costa Rica,Patrick Pemberton,GAR,1.79m,80kg,39 sel.
+Costa Rica,Francisco Calvo,DEF,1.82m,80kg,39 sel.
+Costa Rica,Rodney Wallace,MIL,1.80m,70kg,31 sel.
+Costa Rica,Kendall Waston,DEF,1.96m,88kg,28 sel.
+Costa Rica,Daniel Colindres,ATT,1.76m,65kg,15 sel.
+Costa Rica,Leonel Moreira,GAR,1.76m,63kg,9 sel.
+Costa Rica,Kenner Gutierrez,DEF,1.79m,74kg,9 sel.
+Costa Rica,Ian Smith,DEF,1.77m,68kg,5 sel.
+Croatie,Luka Modric,MIL,1.72m,66kg,110 sel.
+Croatie,Vedran Corluka,DEF,1.92m,84kg,101 sel.
+Croatie,Ivan Rakitic,MIL,1.84m,78kg,96 sel.
+Croatie,Mario Mandzukic,ATT,1.90m,85kg,85 sel.
+Croatie,Ivan Perisic,MIL,1.86m,81kg,69 sel.
+Croatie,Domagoj Vida,DEF,1.84m,76kg,62 sel.
+Croatie,Ivan Strinic,DEF,1.86m,78kg,46 sel.
+Croatie,Mateo Kovacic,MIL,1.78m,78kg,44 sel.
+Croatie,Dejan Lovren,DEF,1.88m,84kg,43 sel.
+Croatie,Danijel Subasic,GAR,1.91m,84kg,41 sel.
+Croatie,Nikola Kalinic,ATT,1.87m,81kg,41 sel.
+Croatie,Milan Badelj,MIL,1.86m,76kg,39 sel.
+Croatie,Sime Vrsaljko,DEF,1.81m,76kg,37 sel.
+Croatie,Marcelo Brozovic,MIL,1.81m,68kg,37 sel.
+Croatie,Andrej Kramaric,ATT,1.77m,73kg,35 sel.
+Croatie,Josip Pivaric,DEF,1.76m,69kg,21 sel.
+Croatie,Ante Rebic,ATT,1.85m,78kg,18 sel.
+Croatie,Marko Pjaca,ATT,1.86m,83kg,17 sel.
+Croatie,Lovre Kalinic,GAR,2.01m,96kg,12 sel.
+Croatie,Tin Jedvaj,DEF,1.84m,81kg,12 sel.
+Croatie,Filip Bradaric,MIL,1.86m,78kg,5 sel.
+Croatie,Duje Caleta-Car,MIL,1.92m,89kg,2 sel.
+Croatie,Dominik Livakovic,GAR,1.88m,82kg,1 sel.
+Danemark,Simon Kjaer,DEF,1.91m,84kg,82 sel.
+Danemark,Christian Eriksen,MIL,1.81m,76kg,82 sel.
+Danemark,William Kvist,MIL,1.85m,80kg,80 sel.
+Danemark,Michael Krohn-Dehli,MIL,1.70m,68kg,59 sel.
+Danemark,Kasper Schmeichel,GAR,1.90m,92kg,39 sel.
+Danemark,Lasse Schöne,MIL,1.78m,80kg,39 sel.
+Danemark,Nicolai Jörgensen,ATT,1.94m,86kg,36 sel.
+Danemark,Yussuf Yurary Poulsen,ATT,1.93m,84kg,32 sel.
+Danemark,Thomas Delaney,MIL,1.80m,78kg,30 sel.
+Danemark,Martin Braithwaite,ATT,1.80m,73kg,23 sel.
+Danemark,Andreas Cornelius,ATT,1.95m,91kg,22 sel.
+Danemark,Andreas Christensen,DEF,1.92m,85kg,20 sel.
+Danemark,Viktor Fischer,ATT,1.81m,80kg,20 sel.
+Danemark,Pione Sisto,ATT,1.73m,69kg,18 sel.
+Danemark,Henrik Dalsgaard,DEF,1.92m,81kg,16 sel.
+Danemark,Jens Stryger Larsen,DEF,1.82m,82kg,16 sel.
+Danemark,Jannick Vestergaard,DEF,2.00m,98kg,16 sel.
+Danemark,Mathias Zanka Jörgensen,DEF,1.91m,85kg,14 sel.
+Danemark,Kasper Dolberg,ATT,1.87m,85kg,7 sel.
+Danemark,Frederik Rönnow,GAR,1.90m,85kg,6 sel.
+Danemark,Lukas Lerager,MIL,1.86m,85kg,5 sel.
+Danemark,Jonas Knudsen,DEF,1.87m,82kg,3 sel.
+Danemark,Jonas Lössl,GAR,1.95m,90kg,1 sel.
+Egypte,Essam El-Hadary,GAR,1.89m,90kg,160 sel.
+Egypte,Ahmed Fathi,DEF,1.75m,75kg,136 sel.
+Egypte,Ahmed Elmohamady,MIL,1.82m,76kg,79 sel.
+Egypte,Mohamed Elneny,MIL,1.80m,75kg,60 sel.
+Egypte,Mohamed Salah,MIL,1.75m,70kg,59 sel.
+Egypte,Mohamed Abdel-Shafi,DEF,1.71m,72kg,55 sel.
+Egypte,Ahmed Hegazy,DEF,1.92m,80kg,48 sel.
+Egypte,Abdallah Said,ATT,1.75m,75kg,40 sel.
+Egypte,Mahmoud Shikabala Abdelrazek,ATT,1.83m,80kg,29 sel.
+Egypte,Mahmoud Hassan Trezeguet,MIL,1.79m,76kg,27 sel.
+Egypte,Marwan Mohsen,ATT,1.86m,82kg,27 sel.
+Egypte,Ramadan Sobhi,MIL,1.83m,77kg,26 sel.
+Egypte,Ali Gabr,DEF,1.93m,89kg,25 sel.
+Egypte,Tarek Hamed,MIL,1.69m,67kg,25 sel.
+Egypte,Omar Gaber,DEF,1.73m,71kg,24 sel.
+Egypte,Sherif Ekramy,GAR,1.93m,93kg,22 sel.
+Egypte,Mahmoud Kahraba,MIL,1.82m,76kg,21 sel.
+Egypte,Amr Warda,MIL,1.79m,77kg,20 sel.
+Egypte,Saad Samir,DEF,1.83m,82kg,11 sel.
+Egypte,Sam Morsy,MIL,1.75m,75kg,6 sel.
+Egypte,Mohamed El-Shenawy,GAR,1.91m,86kg,5 sel.
+Egypte,Ayman Ashraf,DEF,1.75m,73kg,5 sel.
+Egypte,Mahmoud Hamdy El-Wensh,DEF,1.73m,72kg,1 sel.
+Espagne,Sergio Ramos,DEF,1.83m,75kg,156 sel.
+Espagne,Andres Iniesta,MIL,1.71m,68kg,131 sel.
+Espagne,David Silva,MIL,1.72m,67kg,125 sel.
+Espagne,Sergio Busquets,MIL,1.89m,78kg,107 sel.
+Espagne,Gerard Piqué,DEF,1.94m,85kg,102 sel.
+Espagne,Jordi Alba,DEF,1.70m,69kg,66 sel.
+Espagne,Koke,MIL,1.76m,73kg,43 sel.
+Espagne,Jose Reina,GAR,1.88m,94kg,36 sel.
+Espagne,David De Gea,GAR,1.92m,72kg,33 sel.
+Espagne,Isco,MIL,1.75m,74kg,32 sel.
+Espagne,Thiago Alcantara,MIL,1.74m,71kg,31 sel.
+Espagne,Diego Costa,ATT,1.86m,86kg,24 sel.
+Espagne,César Azpilicueta,DEF,1.78m,78kg,22 sel.
+Espagne,Nacho Monreal,DEF,1.79m,72kg,22 sel.
+Espagne,Nacho Fernandez,DEF,1.80m,77kg,19 sel.
+Espagne,Daniel Carvajal,DEF,1.73m,73kg,18 sel.
+Espagne,Marco Asensio,MIL,1.82m,76kg,15 sel.
+Espagne,Iago Aspas,ATT,1.76m,67kg,13 sel.
+Espagne,Saul Niguez,MIL,1.82m,76kg,10 sel.
+Espagne,Lucas Vazquez,MIL,1.73m,68kg,9 sel.
+Espagne,Rodrigo,ATT,1.82m,73kg,9 sel.
+Espagne,Alvaro Odriozola,MIL,1.78m,66kg,4 sel.
+Espagne,Kepa Arrizabalaga,GAR,1.89m,85kg,1 sel.
+France,Hugo Lloris,GAR,1.88m,82kg,103 sel.
+France,Olivier Giroud,ATT,1.92m,88kg,80 sel.
+France,Blaise Matuidi,MIL,1.75m,70kg,71 sel.
+France,Antoine Griezmann,ATT,1.75m,71kg,60 sel.
+France,Paul Pogba,MIL,1.91m,84kg,59 sel.
+France,Raphaël Varane,DEF,1.91m,81kg,48 sel.
+France,Adil Rami,DEF,1.90m,90kg,35 sel.
+France,N'Golo Kanté,MIL,1.68m,68kg,30 sel.
+France,Steve Mandanda,GAR,1.85m,82kg,28 sel.
+France,Samuel Umtiti,DEF,1.82m,75kg,24 sel.
+France,Kylian Mbappé,ATT,1.78m,73kg,21 sel.
+France,Djibril Sidibé,DEF,1.82m,71kg,18 sel.
+France,Nabil Fekir,MIL,1.73m,72kg,17 sel.
+France,Ousmane Dembélé,ATT,1.78m,67kg,16 sel.
+France,Thomas Lemar,MIL,1.70m,58kg,13 sel.
+France,Corentin Tolisso,MIL,1.81m,78kg,13 sel.
+France,Lucas Hernandez,DEF,1.84m,76kg,11 sel.
+France,Benjamin Pavard,DEF,1.86m,76kg,11 sel.
+France,Benjamin Mendy,DEF,1.85m,85kg,8 sel.
+France,Steven Nzonzi,MIL,1.96m,75kg,8 sel.
+France,Florian Thauvin,ATT,1.79m,70kg,5 sel.
+France,Presnel Kimpembe,DEF,1.83m,67kg,3 sel.
+France,Alphonse Areola,GAR,1.95m,94kg,
+Iran,Ehsan Hajsafi,MIL,1.77m,74kg,96 sel.
+Iran,Masoud Shojaei Soleimani,ATT,1.87m,76kg,74 sel.
+Iran,Karim Ansarifard,ATT,1.85m,80kg,66 sel.
+Iran,Pejman Montazeri,DEF,1.86m,79kg,47 sel.
+Iran,Ashkan Dejagah,ATT,1.81m,80kg,45 sel.
+Iran,Reza Ghoochanneijhad,ATT,1.81m,78kg,42 sel.
+Iran,Alireza Jahanbakhsh,ATT,1.81m,78kg,41 sel.
+Iran,Vahid Amiri,MIL,1.79m,71kg,38 sel.
+Iran,Omid Ebrahimi,MIL,1.79m,75kg,35 sel.
+Iran,Sardar Azmoun,ATT,1.84m,80kg,35 sel.
+Iran,Ramin Rezaeian,DEF,1.85m,75kg,31 sel.
+Iran,Morteza Pouraliganji,DEF,1.85m,83kg,30 sel.
+Iran,Mehdi Taremi,ATT,1.87m,80kg,29 sel.
+Iran,Saeid Ezatolahi,MIL,1.90m,78kg,27 sel.
+Iran,Alireza Beiranvand,GAR,1.95m,85kg,25 sel.
+Iran,Milad Mohammadi,DEF,1.78m,69kg,20 sel.
+Iran,Mehdi Torabi,MIL,1.83m,71kg,16 sel.
+Iran,Mohammad Reza Khanzadeh,DEF,1.86m,80kg,11 sel.
+Iran,Roozbeh Cheshmi,DEF,1.90m,80kg,10 sel.
+Iran,Saman Ghoddos,MIL,1.76m,77kg,10 sel.
+Iran,Mohammad Rashid Mazaheri,GAR,1.93m,84kg,3 sel.
+Iran,Majid Hosseini,DEF,1.83m,78kg,3 sel.
+Iran,Amir Abedzadeh,GAR,1.86m,80kg,1 sel.
+Islande,Birkir Mar Saevarsson,DEF,1.87m,79kg,81 sel.
+Islande,Ragnar Sigurdsson,DEF,1.87m,81kg,80 sel.
+Islande,Aron Einar Gunnarsson,MIL,1.81m,86kg,73 sel.
+Islande,Birkir Bjarnason,MIL,1.82m,73kg,70 sel.
+Islande,Kari Arnason,MIL,1.90m,82kg,69 sel.
+Islande,Johann Berg Gudmundsson,ATT,1.78m,77kg,68 sel.
+Islande,Emil Hallfredsson,MIL,1.86m,85kg,62 sel.
+Islande,Gylfi Thor Sigurdsson,MIL,1.86m,82kg,60 sel.
+Islande,Ari Freyr Skulason,DEF,1.71m,68kg,55 sel.
+Islande,Hannes Thor Halldorsson,GAR,1.93m,87kg,52 sel.
+Islande,Alfred Finnbogason,ATT,1.84m,80kg,50 sel.
+Islande,Rurik Gislason,MIL,1.84m,78kg,49 sel.
+Islande,Samuel Fridjonsson,MIL,1.86m,78kg,44 sel.
+Islande,Olafur-Ingi Skulason,MIL,1.83m,78kg,39 sel.
+Islande,Jon Dadi Bodvarsson,ATT,1.90m,85kg,39 sel.
+Islande,Sverrir Ingi Ingason,DEF,1.88m,81kg,22 sel.
+Islande,Arnor Ingvi Traustason,DEF,1.84m,75kg,20 sel.
+Islande,Hordur Bjorgvin Magnusson,DEF,1.90m,85kg,19 sel.
+Islande,Björn Bergmann Sigurdarson,ATT,1.86m,84kg,16 sel.
+Islande,Holmar Örn Eyjolfsson,DEF,1.88m,81kg,9 sel.
+Islande,Albert Gudmundsson,ATT,1.77m,80kg,6 sel.
+Islande,Frederik Schram,GAR,1.98m,92kg,4 sel.
+Islande,Runar Alex Runarsson,GAR,1.86m,76kg,3 sel.
+Japon,Shinji Okazaki,ATT,1.73m,70kg,116 sel.
+Japon,Makoto Hasebe,MIL,1.79m,72kg,114 sel.
+Japon,Yuto Nagatomo,DEF,1.70m,68kg,109 sel.
+Japon,Keisuke Honda,MIL,1.81m,74kg,98 sel.
+Japon,Shinji Kagawa,MIL,1.74m,67kg,95 sel.
+Japon,Eiji Kawashima,GAR,1.85m,74kg,88 sel.
+Japon,Maya Yoshida,DEF,1.86m,78kg,86 sel.
+Japon,Hiroki Sakai,DEF,1.83m,70kg,47 sel.
+Japon,Hotaru Yamaguchi,MIL,1.73m,72kg,45 sel.
+Japon,Gotoku Sakai,DEF,1.76m,74kg,42 sel.
+Japon,Genki Haraguchi,ATT,1.77m,68kg,36 sel.
+Japon,Tomoaki Makino,DEF,1.82m,76kg,33 sel.
+Japon,Yuya Osako,ATT,1.82m,70kg,33 sel.
+Japon,Takashi Inui,MIL,1.69m,59kg,31 sel.
+Japon,Takashi Usami,MIL,1.78m,68kg,26 sel.
+Japon,Yoshinori Muto,MIL,1.78m,72kg,25 sel.
+Japon,Gaku Shibasaki,MIL,1.75m,64kg,22 sel.
+Japon,Gen Shoji,DEF,1.82m,74kg,15 sel.
+Japon,Wataru Endo,DEF,1.78m,75kg,12 sel.
+Japon,Masaaki Higashiguchi,GAR,1.84m,78kg,5 sel.
+Japon,Ryota Oshima,MIL,1.68m,64kg,5 sel.
+Japon,Kosuke Nakamura,GAR,1.85m,72kg,4 sel.
+Japon,Naomichi Ueda,DEF,1.86m,79kg,4 sel.
+Maroc,Mbark Boussoufa,MIL,1.67m,59kg,61 sel.
+Maroc,Mehdi Benatia,DEF,1.88m,88kg,58 sel.
+Maroc,Karim El-Ahmadi,MIL,1.85m,78kg,54 sel.
+Maroc,Younes Belhanda,MIL,1.77m,78kg,50 sel.
+Maroc,Nordin Amrabat,ATT,1.78m,77kg,46 sel.
+Maroc,Nabil Dirar,MIL,1.87m,82kg,36 sel.
+Maroc,Manuel Da Costa,DEF,1.87m,78kg,31 sel.
+Maroc,Munir El-Kajoui,GAR,1.89m,88kg,30 sel.
+Maroc,Romain Saiss,DEF,1.90m,76kg,28 sel.
+Maroc,Fayçal Fajr,MIL,1.78m,72kg,24 sel.
+Maroc,Mehdi Carcela,MIL,1.76m,67kg,22 sel.
+Maroc,Hakim Ziyech,MIL,1.80m,70kg,21 sel.
+Maroc,Khalid Boutaïb,ATT,1.90m,80kg,20 sel.
+Maroc,Youssef En-Nesyri,ATT,1.88m,75kg,17 sel.
+Maroc,Aziz Bouhaddouz,ATT,1.88m,80kg,16 sel.
+Maroc,Youssef Aït Bennasser,MIL,1.84m,75kg,14 sel.
+Maroc,Achraf Hakimi,DEF,1.77m,65kg,13 sel.
+Maroc,Hamza Mendyl,MIL,1.79m,70kg,13 sel.
+Maroc,Ayoub El-Kaabi,ATT,1.82m,72kg,12 sel.
+Maroc,Yassine Bounou,GAR,1.90m,78kg,10 sel.
+Maroc,Sofyan Amrabat,MIL,1.82m,77kg,7 sel.
+Maroc,Amine Harit,MIL,1.79m,66kg,7 sel.
+Maroc,Ahmed Reda Tagnaouti,GAR,1.82m,70kg,2 sel.
+Mexique,Andrés Guardado,MIL,1.69m,60kg,152 sel.
+Mexique,Rafael Marquez,DEF,1.82m,75kg,147 sel.
+Mexique,Giovani Dos Santos,ATT,1.75m,74kg,107 sel.
+Mexique,Javier Hernandez,ATT,1.73m,62kg,106 sel.
+Mexique,Guillermo Ochoa,GAR,1.85m,78kg,98 sel.
+Mexique,Hector Moreno,DEF,1.82m,80kg,95 sel.
+Mexique,Carlos Vela,ATT,1.72m,72kg,72 sel.
+Mexique,Hector Herrera,MIL,1.80m,72kg,70 sel.
+Mexique,Miguel Layun,MIL,1.76m,66kg,67 sel.
+Mexique,Oribe Peralta,ATT,1.70m,71kg,67 sel.
+Mexique,Raul Jimenez,ATT,1.90m,76kg,65 sel.
+Mexique,Jose de Jesus Corona,GAR,1.88m,82kg,53 sel.
+Mexique,Javier Aquino,MIL,1.65m,62kg,53 sel.
+Mexique,Hugo Ayala,DEF,1.86m,78kg,45 sel.
+Mexique,Marco Fabian,MIL,1.72m,69kg,40 sel.
+Mexique,Jesus Manuel Corona,MIL,1.73m,62kg,38 sel.
+Mexique,Jonathan Dos Santos,MIL,1.74m,72kg,37 sel.
+Mexique,Hirving Lozano,ATT,1.77m,70kg,32 sel.
+Mexique,Alfredo Talavera,GAR,1.88m,84kg,28 sel.
+Mexique,Jesus Gallardo,DEF,1.76m,73kg,27 sel.
+Mexique,Carlos Salcedo,DEF,1.88m,77kg,25 sel.
+Mexique,Edson Alvarez,ATT,1.90m,72kg,17 sel.
+Mexique,Erick Gutierrez,MIL,1.76m,70kg,9 sel.
+Nigeria,John Obi Mikel,MIL,1.88m,82kg,88 sel.
+Nigeria,Ahmed Musa,ATT,1.73m,65kg,71 sel.
+Nigeria,Elderson Echiejile,DEF,1.85m,82kg,61 sel.
+Nigeria,Ogenyi Onazi,MIL,1.72m,74kg,52 sel.
+Nigeria,Kenneth Omeruo,DEF,1.85m,82kg,41 sel.
+Nigeria,Victor Moses,ATT,1.77m,75kg,38 sel.
+Nigeria,Abdullahi Shehu,DEF,1.82m,75kg,26 sel.
+Nigeria,William Troost-Ekong,DEF,1.91m,85kg,25 sel.
+Nigeria,Leon Balogun,DEF,1.90m,81kg,22 sel.
+Nigeria,Odion Jude Ighalo,ATT,1.88m,83kg,22 sel.
+Nigeria,Alex Iwobi,ATT,1.85m,86kg,22 sel.
+Nigeria,Onyinye Wilfred Ndidi,DEF,1.84m,73kg,20 sel.
+Nigeria,Kelechi Iheanacho,ATT,1.83m,80kg,20 sel.
+Nigeria,John Ogu,MIL,1.91m,90kg,19 sel.
+Nigeria,Ikechukwu Ezenwa,GAR,1.81m,80kg,18 sel.
+Nigeria,Oghenekaro Etebo,MIL,1.74m,74kg,16 sel.
+Nigeria,Joel Obi,MIL,1.77m,77kg,15 sel.
+Nigeria,Francis Uzoho,GAR,1.96m,91kg,9 sel.
+Nigeria,Brian Idowu,DEF,1.79m,75kg,8 sel.
+Nigeria,Daniel Akpeyi,GAR,1.87m,94kg,7 sel.
+Nigeria,Tyronne Ebuehi,DEF,1.87m,74kg,7 sel.
+Nigeria,Chidozie Awaziem,DEF,1.92m,76kg,4 sel.
+Nigeria,Simy Nwankwo,ATT,1.97m,89kg,4 sel.
+Panama,Gabriel Gomez,MIL,1.83m,77kg,144 sel.
+Panama,Jaime Penedo,GAR,1.83m,70kg,134 sel.
+Panama,Blas Perez,ATT,1.87m,83kg,119 sel.
+Panama,Roman Torres,DEF,1.88m,99kg,113 sel.
+Panama,Luis Tejada,ATT,1.85m,87kg,107 sel.
+Panama,Armando Cooper,MIL,1.73m,72kg,102 sel.
+Panama,Felipe Baloy,DEF,1.85m,87kg,101 sel.
+Panama,Anibal Godoy,MIL,1.82m,82kg,91 sel.
+Panama,Adolfo Machado,DEF,1.81m,78kg,77 sel.
+Panama,Gabriel Torres,ATT,1.80m,77kg,74 sel.
+Panama,Harold Cummings,DEF,1.80m,92kg,53 sel.
+Panama,Erick Davis,DEF,1.79m,81kg,40 sel.
+Panama,Abdiel Arroyo,ATT,1.87m,82kg,35 sel.
+Panama,José Calderon,GAR,1.87m,87kg,32 sel.
+Panama,Edgar Yoel Barcenas,MIL,1.75m,72kg,32 sel.
+Panama,Fidel Escobar,DEF,1.81m,82kg,26 sel.
+Panama,Luis Ovalle,DEF,1.77m,71kg,26 sel.
+Panama,Michael Murillo,DEF,1.83m,78kg,24 sel.
+Panama,Valentin Pimentel,ATT,1.85m,80kg,23 sel.
+Panama,Ismael Diaz,ATT,1.82m,72kg,13 sel.
+Panama,Ricardo Avila,MIL,1.82m,75kg,7 sel.
+Panama,Alex Rodriguez,GAR,1.98m,83kg,6 sel.
+Panama,Jose Luis Rodriguez,MIL,1.80m,77kg,5 sel.
+Perou,Paolo Guerrero,ATT,1.84m,80kg,91 sel.
+Perou,Jefferson Farfan,ATT,1.78m,84kg,86 sel.
+Perou,Alberto Rodriguez,DEF,1.82m,78kg,75 sel.
+Perou,Yoshimar Yotun,MIL,1.71m,65kg,74 sel.
+Perou,Christian Ramos,DEF,1.81m,74kg,72 sel.
+Perou,Luis Advincula,MIL,1.78m,75kg,69 sel.
+Perou,André Carrillo,MIL,1.82m,73kg,49 sel.
+Perou,Christian Cueva,MIL,1.69m,69kg,49 sel.
+Perou,Pedro Gallese,GAR,1.89m,79kg,42 sel.
+Perou,Renato Tapia,DEF,1.85m,80kg,35 sel.
+Perou,Paolo Hurtado,MIL,1.77m,72kg,34 sel.
+Perou,Edison Flores,ATT,1.70m,72kg,33 sel.
+Perou,Raul Ruidiaz,ATT,1.69m,67kg,31 sel.
+Perou,Miguel Trauco,MIL,1.75m,65kg,30 sel.
+Perou,Aldo Corzo,DEF,1.72m,75kg,25 sel.
+Perou,Andy Polo,ATT,1.70m,57kg,17 sel.
+Perou,Pedro Aquino,MIL,1.75m,71kg,16 sel.
+Perou,Anderson Santamaria,MIL,1.82m,84kg,8 sel.
+Perou,Miguel Araujo,DEF,1.78m,77kg,7 sel.
+Perou,Carlos Caceda,GAR,1.83m,78kg,6 sel.
+Perou,Jose Carvallo,GAR,1.82m,84kg,6 sel.
+Perou,Wilder Cartagena,MIL,1.80m,76kg,4 sel.
+Perou,Nilson Loyola,MIL,1.75m,68kg,4 sel.
+Pologne,Jakub Blaszczykowski,MIL,1.75m,71kg,99 sel.
+Pologne,Robert Lewandowski,ATT,1.84m,78kg,97 sel.
+Pologne,Lukasz Piszczek,DEF,1.84m,75kg,64 sel.
+Pologne,Kamil Glik,DEF,1.90m,80kg,60 sel.
+Pologne,Kamil Grosicki,MIL,1.80m,78kg,59 sel.
+Pologne,Grzegorz Krychowiak,MIL,1.86m,85kg,54 sel.
+Pologne,Maciej Rybus,DEF,1.73m,70kg,53 sel.
+Pologne,Lukasz Fabianski,GAR,1.91m,84kg,45 sel.
+Pologne,Slawomir Peszko,MIL,1.72m,69kg,44 sel.
+Pologne,Arkadiusz Milik,ATT,1.89m,78kg,41 sel.
+Pologne,Wojciech Szczesny,GAR,1.95m,84kg,37 sel.
+Pologne,Artur Jedrzejczyk,DEF,1.89m,78kg,37 sel.
+Pologne,Piotr Zielinski,MIL,1.77m,68kg,35 sel.
+Pologne,Michal Pazdan,DEF,1.80m,78kg,34 sel.
+Pologne,Thiago Rangel Cionek,DEF,1.84m,81kg,19 sel.
+Pologne,Karol Linetty,MIL,1.76m,73kg,19 sel.
+Pologne,Lukasz Teodorczyk,ATT,1.85m,76kg,17 sel.
+Pologne,Bartosz Bereszynski,MIL,1.82m,72kg,11 sel.
+Pologne,Jacek Goralski,MIL,1.72m,66kg,7 sel.
+Pologne,Jan Bednarek,DEF,1.89m,77kg,6 sel.
+Pologne,Rafal Kurzawa,MIL,1.82m,73kg,4 sel.
+Pologne,Dawid Kownacki,ATT,1.85m,80kg,4 sel.
+Pologne,Bartosz Bialkowski,GAR,1.94m,90kg,1 sel.
+Portugal,Cristiano Ronaldo,ATT,1.84m,83kg,154 sel.
+Portugal,João Moutinho,MIL,1.70m,61kg,113 sel.
+Portugal,Pepe,DEF,1.90m,81kg,99 sel.
+Portugal,Bruno Alves,DEF,1.90m,82kg,96 sel.
+Portugal,Ricardo Quaresma,MIL,1.73m,70kg,80 sel.
+Portugal,Rui Patricio,GAR,1.88m,84kg,73 sel.
+Portugal,William Carvalho,MIL,1.86m,87kg,47 sel.
+Portugal,João Mario,MIL,1.79m,78kg,40 sel.
+Portugal,Jose Miguel Fonte,DEF,1.87m,81kg,35 sel.
+Portugal,Cédric Soares,DEF,1.72m,67kg,32 sel.
+Portugal,Bernardo Silva,MIL,1.73m,65kg,29 sel.
+Portugal,Raphaël Guerreiro,DEF,1.70m,67kg,28 sel.
+Portugal,Adrien Silva,MIL,1.75m,75kg,26 sel.
+Portugal,André Silva,ATT,1.84m,71kg,26 sel.
+Portugal,Gelson Martins,ATT,1.73m,74kg,19 sel.
+Portugal,Manuel Fernandes,MIL,1.75m,69kg,15 sel.
+Portugal,Beto,GAR,1.82m,80kg,14 sel.
+Portugal,Gonçalo Guedes,ATT,1.79m,68kg,14 sel.
+Portugal,Bruno Fernandes,MIL,1.73m,65kg,8 sel.
+Portugal,Anthony Lopes,GAR,1.84m,81kg,7 sel.
+Portugal,Ricardo Pereira,DEF,1.75m,70kg,5 sel.
+Portugal,Mario Rui,DEF,1.70m,67kg,4 sel.
+Portugal,Ruben Dias,DEF,1.87m,83kg,1 sel.
+Russie,Sergeï Ignachevitch,DEF,1.86m,82kg,126 sel.
+Russie,Igor Akinfeïev,GAR,1.84m,71kg,110 sel.
+Russie,Youri Jirkov,MIL,1.78m,70kg,87 sel.
+Russie,Alan Dzagoïev,MIL,1.79m,70kg,58 sel.
+Russie,Alexandre Samedov,MIL,1.74m,64kg,52 sel.
+Russie,Fiodor Smolov,ATT,1.88m,80kg,36 sel.
+Russie,Igor Smolnikov,DEF,1.78m,70kg,28 sel.
+Russie,Artem Dziouba,ATT,1.94m,88kg,27 sel.
+Russie,Fiodor Koudriachov,DEF,1.81m,77kg,22 sel.
+Russie,Alexandre Golovine,MIL,1.80m,69kg,22 sel.
+Russie,Alexeï Mirantchouk,ATT,1.77m,67kg,19 sel.
+Russie,Alexandre Ierokhine,MIL,1.92m,76kg,18 sel.
+Russie,Roman Zobnine,MIL,1.82m,72kg,16 sel.
+Russie,Denis Cherichev,MIL,1.80m,71kg,15 sel.
+Russie,Vladimir Granat,DEF,1.84m,80kg,13 sel.
+Russie,Ilya Koutepov,DEF,1.91m,82kg,11 sel.
+Russie,Vladimir Gaboulov,GAR,1.90m,83kg,10 sel.
+Russie,Daler Kouzyaïev,MIL,1.77m,68kg,10 sel.
+Russie,Mario Fernandes,DEF,1.89m,77kg,9 sel.
+Russie,Youri Gazinski,MIL,1.84m,75kg,9 sel.
+Russie,Andreï Semionov,DEF,1.90m,86kg,6 sel.
+Russie,Anton Mirantchouk,MIL,1.84m,75kg,6 sel.
+Russie,Andreï Louniov,GAR,1.89m,80kg,3 sel.
+Senegal,Idrissa Gueye,MIL,1.74m,66kg,59 sel.
+Senegal,Sadio Mané,MIL,1.75m,69kg,54 sel.
+Senegal,Mame Biram Diouf,ATT,1.85m,81kg,48 sel.
+Senegal,Moussa Sow,ATT,1.80m,83kg,47 sel.
+Senegal,Serigne Kara Mbodji,DEF,1.92m,85kg,46 sel.
+Senegal,Cheikhou Kouyaté,DEF,1.89m,75kg,46 sel.
+Senegal,Lamine Gassama,DEF,1.81m,74kg,36 sel.
+Senegal,Khadim N'Diaye,GAR,1.85m,80kg,28 sel.
+Senegal,Kalidou Koulibaly,DEF,1.95m,89kg,28 sel.
+Senegal,Moussa Konaté,ATT,1.80m,78kg,28 sel.
+Senegal,Cheikh N'Doye,MIL,1.92m,90kg,26 sel.
+Senegal,Salif Sané,MIL,1.94m,84kg,25 sel.
+Senegal,Alfred N'Diaye,DEF,1.87m,80kg,23 sel.
+Senegal,Papa Alioune N'Diaye,ATT,1.80m,74kg,23 sel.
+Senegal,Ismaïla Sarr,MIL,1.85m,70kg,18 sel.
+Senegal,Keita Baldé,ATT,1.81m,77kg,18 sel.
+Senegal,Abdoulaye Diallo,GAR,1.89m,79kg,16 sel.
+Senegal,Saliou Ciss,DEF,1.73m,69kg,16 sel.
+Senegal,Moussa Wagué,DEF,1.77m,70kg,13 sel.
+Senegal,Diafra Sakho,ATT,1.84m,79kg,12 sel.
+Senegal,M'Baye Niang,ATT,1.84m,75kg,10 sel.
+Senegal,Youssouf Sabaly,DEF,1.74m,70kg,8 sel.
+Senegal,Alfred Gomis,GAR,1.96m,80kg,1 sel.
+Serbie,Branislav Ivanovic,DEF,1.85m,89kg,105 sel.
+Serbie,Vladimir Stojkovic,GAR,1.95m,92kg,84 sel.
+Serbie,Aleksandar Kolarov,DEF,1.87m,80kg,79 sel.
+Serbie,Dusan Tadic,MIL,1.81m,76kg,56 sel.
+Serbie,Antonio Rukavina,DEF,1.77m,74kg,49 sel.
+Serbie,Nemanja Matic,MIL,1.94m,86kg,43 sel.
+Serbie,Aleksandar Mitrovic,ATT,1.89m,82kg,40 sel.
+Serbie,Adem Ljajic,ATT,1.81m,74kg,32 sel.
+Serbie,Luka Milivojevic,MIL,1.86m,80kg,30 sel.
+Serbie,Filip Kostic,MIL,1.84m,82kg,26 sel.
+Serbie,Dusko Tosic,DEF,1.84m,79kg,25 sel.
+Serbie,Andrija Zivkovic,MIL,1.70m,68kg,11 sel.
+Serbie,Aleksandar Prijovic,ATT,1.91m,88kg,10 sel.
+Serbie,Predrag Rajkovic,GAR,1.91m,75kg,8 sel.
+Serbie,Marko Grujic,MIL,1.91m,82kg,8 sel.
+Serbie,Sergej Milinkovic-Savic,MIL,1.92m,76kg,7 sel.
+Serbie,Nikola Milenkovic,DEF,1.95m,90kg,5 sel.
+Serbie,Uros Spajic,DEF,1.88m,82kg,5 sel.
+Serbie,Nemanja Radonjic,MIL,1.85m,76kg,5 sel.
+Serbie,Milos Veljkovic,DEF,1.88m,77kg,3 sel.
+Serbie,Marko Dmitrovic,GAR,1.94m,90kg,2 sel.
+Serbie,Luka Jovic,ATT,1.81m,75kg,2 sel.
+Serbie,Milan Rodic,DEF,1.85m,69kg,1 sel.
+Suede,Sebastian Larsson,MIL,1.79m,71kg,104 sel.
+Suede,Andreas Granqvist,DEF,1.92m,84kg,76 sel.
+Suede,Michael Lustig,DEF,1.89m,77kg,70 sel.
+Suede,Ola Toivonen,ATT,1.92m,78kg,63 sel.
+Suede,Marcus Berg,ATT,1.84m,78kg,61 sel.
+Suede,Jimmy Durmaz,MIL,1.81m,69kg,46 sel.
+Suede,Martin Olsson,DEF,1.77m,81kg,44 sel.
+Suede,Emil Forsberg,MIL,1.79m,78kg,40 sel.
+Suede,Albin Ekdal,MIL,1.86m,75kg,38 sel.
+Suede,Victor Nilsson Lindelöf,DEF,1.87m,82kg,24 sel.
+Suede,Oscar Hiljemark,MIL,1.84m,73kg,24 sel.
+Suede,Isaac Kiese Thelin,ATT,1.89m,83kg,24 sel.
+Suede,Viktor Claesson,MIL,1.83m,79kg,23 sel.
+Suede,Robin Olsen,GAR,1.98m,86kg,22 sel.
+Suede,John Guidetti,ATT,1.85m,79kg,21 sel.
+Suede,Ludwig Augustinsson,DEF,1.81m,76kg,19 sel.
+Suede,Pontus Jansson,DEF,1.94m,89kg,16 sel.
+Suede,Emil Krafth,DEF,1.81m,72kg,14 sel.
+Suede,Gustav Johan Svensson,MIL,1.84m,82kg,14 sel.
+Suede,Marcus Rohden,MIL,1.82m,75kg,10 sel.
+Suede,Kristoffer Nordfeldt,GAR,1.90m,85kg,8 sel.
+Suede,Filip Helander,DEF,1.92m,83kg,4 sel.
+Suede,Karl Johan Johnsson,GAR,1.88m,84kg,3 sel.
+Suisse,Stephan Lichtsteiner,DEF,1.81m,78kg,103 sel.
+Suisse,Valon Behrami,MIL,1.84m,71kg,83 sel.
+Suisse,Johan Djourou,DEF,1.91m,90kg,75 sel.
+Suisse,Xherdan Shaqiri,MIL,1.69m,72kg,74 sel.
+Suisse,Blerim Dzemaili,MIL,1.80m,77kg,69 sel.
+Suisse,Gelson Fernandes,MIL,1.80m,72kg,67 sel.
+Suisse,Granit Xhaka,MIL,1.83m,82kg,66 sel.
+Suisse,Ricardo Rodriguez,DEF,1.80m,79kg,57 sel.
+Suisse,Haris Seferovic,ATT,1.85m,88kg,54 sel.
+Suisse,Fabian Schär,DEF,1.86m,85kg,42 sel.
+Suisse,Yann Sommer,GAR,1.83m,81kg,39 sel.
+Suisse,Josip Drmic,ATT,1.84m,78kg,32 sel.
+Suisse,Breel Donald Embolo,ATT,1.84m,86kg,29 sel.
+Suisse,Michael Lang,DEF,1.84m,76kg,27 sel.
+Suisse,François Moubandje,DEF,1.80m,74kg,18 sel.
+Suisse,Mario Gavranovic,ATT,1.75m,74kg,16 sel.
+Suisse,Steven Zuber,MIL,1.82m,80kg,15 sel.
+Suisse,Denis Zakaria,MIL,1.91m,76kg,12 sel.
+Suisse,Manuel Akanji,DEF,1.87m,85kg,11 sel.
+Suisse,Remo Freuler,MIL,1.81m,77kg,10 sel.
+Suisse,Roman Bürki,GAR,1.87m,83kg,9 sel.
+Suisse,Nico Elvedi,DEF,1.88m,74kg,6 sel.
+Suisse,Yvon Mvogo,GAR,1.86m,84kg,
+Tunisie,Ali Maaloul,DEF,1.70m,72kg,51 sel.
+Tunisie,Aymen Mathlouthi,GAR,1.82m,84kg,46 sel.
+Tunisie,Syam Ben Youssef,DEF,1.89m,87kg,46 sel.
+Tunisie,Saber Khalifa,ATT,1.85m,72kg,46 sel.
+Tunisie,Ferjani Sassi,MIL,1.86m,80kg,44 sel.
+Tunisie,Fakhreddine Ben Youssef,ATT,1.89m,80kg,42 sel.
+Tunisie,Wahbi Khazri,MIL,1.82m,76kg,40 sel.
+Tunisie,Mohamed Amine Ben Amor,MIL,1.80m,75kg,28 sel.
+Tunisie,Naim Sliti,ATT,1.73m,75kg,23 sel.
+Tunisie,Yassine Meriah,DEF,1.83m,70kg,20 sel.
+Tunisie,Hamdi Nagguez,DEF,1.86m,75kg,19 sel.
+Tunisie,Farouk Ben Mustapha,GAR,1.92m,85kg,17 sel.
+Tunisie,Anice Badri,ATT,1.78m,70kg,13 sel.
+Tunisie,Rami Bedoui,DEF,1.87m,77kg,11 sel.
+Tunisie,Oussama Haddadi,DEF,1.85m,76kg,10 sel.
+Tunisie,Ghailene Chaalali,MIL,1.79m,70kg,8 sel.
+Tunisie,Ellyes Skhiri,MIL,1.85m,69kg,8 sel.
+Tunisie,Dylan Bronn,DEF,1.86m,75kg,7 sel.
+Tunisie,Saîf-Eddine Khaoui,MIL,1.80m,76kg,6 sel.
+Tunisie,Bassem Srarfi,ATT,1.76m,71kg,6 sel.
+Tunisie,Yohan Benalouane,DEF,1.85m,75kg,5 sel.
+Tunisie,Mouez Hassen,GAR,1.86m,70kg,4 sel.
+Tunisie,Ahmed Khalil,MIL,1.87m,75kg,4 sel.
+Uruguay,Maxi Pereira,DEF,1.73m,73kg,127 sel.
+Uruguay,Diego Godin,DEF,1.85m,75kg,121 sel.
+Uruguay,Cristian Rodriguez,MIL,1.75m,79kg,109 sel.
+Uruguay,Edinson Cavani,ATT,1.88m,78kg,105 sel.
+Uruguay,Luis Suarez,ATT,1.82m,85kg,102 sel.
+Uruguay,Fernando Muslera,GAR,1.90m,74kg,101 sel.
+Uruguay,Martin Caceres,DEF,1.82m,75kg,80 sel.
+Uruguay,Jose Gimenez,DEF,1.85m,77kg,45 sel.
+Uruguay,Cristhian Stuani,ATT,1.86m,78kg,42 sel.
+Uruguay,Carlos Sanchez,MIL,1.71m,74kg,38 sel.
+Uruguay,Sebastian Coates,DEF,1.96m,89kg,31 sel.
+Uruguay,Matias Vecino,MIL,1.87m,81kg,26 sel.
+Uruguay,Gaston Silva,DEF,1.85m,74kg,17 sel.
+Uruguay,Giorgian De Arrascaeta,MIL,1.72m,67kg,16 sel.
+Uruguay,Nahitan Nandez,MIL,1.71m,70kg,16 sel.
+Uruguay,Martin Silva,GAR,1.86m,80kg,11 sel.
+Uruguay,Rodrigo Bentancur,MIL,1.87m,74kg,11 sel.
+Uruguay,Diego Laxalt,MIL,1.78m,66kg,9 sel.
+Uruguay,Lucas Torreira,MIL,1.68m,64kg,7 sel.
+Uruguay,Maximiliano Gomez,ATT,1.86m,85kg,6 sel.
+Uruguay,Guillermo Varela,DEF,1.73m,70kg,5 sel.
+Uruguay,Jonathan Urretaviscaya,MIL,1.72m,66kg,4 sel.
+Uruguay,Martin Campana,GAR,1.84m,79kg,1 sel.
